@@ -9,6 +9,7 @@ A few core architecture principles to make sure that our architecture and system
 
 ## Architecture Component Model
 The system architecture consists of five subsystems responsible for Administration, Running the Tests, Assessment and Scoring, Learning and Recommendation as well as Candidate Status.  The existing system will be extended with an RAG approach to enhance large language models (LLMs) through query-dependent retrievals based on the architectural test relevant context.
+![image](https://github.com/user-attachments/assets/59e12ebc-49d7-4aec-9a81-6eb5c39c8e4d)
 
 ## Main Architectural Quanta and Qualities
 - User and Test Administration Sub-System
