@@ -8,15 +8,16 @@ Proposed
 
 ## Context:
 
-- The recommendation system needs LLM model for baseline processing
+- The recommendation system needs an LLM model for baseline processing
 - Requirements considerations are cost, reliability, accuracy, and performance
 - Select something that works with Sage Maker used for hosting of our RAG system.
 
 ## Decision:
 
-- We will use GTP NeoX tool for self hosted LLM capabilitie.
+- We will use the GTP NeoX tool for self-hosted LLM capabilities.
 
-The primary concern is minimizing costs and we have the technical capability to handle setup and maintenance, GPT-NeoX is a strong choice.
+The primary concern is minimizing costs and we have the technical capability to handle setup and maintenance, GPT-NeoX is a strong choice.  
+GPT-NeoXT-Chat-Base-20B language foundation model is available for customers using Amazon SageMaker JumpStart.
  
 ## Consequences:
 
