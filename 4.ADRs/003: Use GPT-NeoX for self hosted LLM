@@ -1,0 +1,26 @@
+## Title: 
+
+003: LLM Technology
+
+## Status: 
+
+Proposed
+
+## Context:
+
+- The recommendation system needs LLM model for baseline processing
+- Requirements considerations are cost, reliability, accuracy, and performance
+- Select something that works with Sage Maker used for hosting of our RAG system.
+
+## Decision:
+
+- We will use GTP NeoX tool for self hosted LLM capabilitie.
+
+The primary concern is minimizing costs and we have the technical capability to handle setup and maintenance, GPT-NeoX is a strong choice.
+ 
+## Consequences:
+
+- Product ownership and cost.
+- Implementation installation, configuration, and integration.
+- Run time process flow and connectivity.
+- Maintainability and tuning
