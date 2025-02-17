@@ -21,5 +21,5 @@ The MlFlow and DeepEval provide superior features, maturity, support infrastruct
 
 - Product ownership and operational cost.
 - Implementation installation, configuration, and integration.
-- Run time process flow integration, availability, and connectivity.
+- Run time  availability, process flow observability, and connectivity.
 - Maintainability and tuning
