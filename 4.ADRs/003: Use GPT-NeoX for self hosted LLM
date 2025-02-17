@@ -16,7 +16,7 @@ Proposed
 
 - We will use the GTP NeoX tool for self-hosted LLM capabilities.
 
-The primary concern is minimizing costs and we have the technical capability to handle setup and maintenance, GPT-NeoX is a strong choice.  
+If the primary concern is minimizing costs, and we have the technical capability to handle setup and maintenance, GPT-NeoX is a strong choice.  
 GPT-NeoXT-Chat-Base-20B language foundation model is available for customers using Amazon SageMaker JumpStart.
  
 ## Consequences:
