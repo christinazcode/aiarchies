@@ -3,17 +3,24 @@ A few core architecture principles to make sure that our architecture and system
 
 | Principle              | Description                    |
 | ---------------------- | ------------------------------ |
-| Buy vs Build | Prefer to reuse an existing functionality if it provides necessary support to address business needs
+| Reuse over Buy over Build | We prefer to use existing solutions if they provide the necessary support to address business needs. Otherwise, we look first at vendor or open-source alternatives before developing custom software ourselves. 
 | Separation of Concerns | Divide the components of the system into specific features so that there is no overlapping among the components' functionality. This will provide high cohesion and low coupling. This approach avoids the interdependency among components of the system which helps in maintaining the system easy.
+| Cloud over Self Hosted | We minimize the dependencies on hardware resources and cost while increasing agility and efficiencies by leveraging SaaS, PaaS, and IaaS hosting platforms over owned data center hosting.
+
+## Architecture Component Model
+The system architecture consists of five subsystems responsible for Administration, Running the Tests, Assessment and Scoring, Learning and Recommendation as well as Candidate Status.  The existing system will be extended with an RAG approach to enhance large language models (LLMs) through query-dependent retrievals based on the architectural test relevant context.
 
 ## Main Architectural Quanta and Qualities
 - User and Test Administration Sub-System
--- Availability
+  - Availability
+  - Security
+  - Performance
 - Testing System
   - Availability
   - Scalability
+  - 
 - Learning and Recommendation System
   - Accuracy
-- Reliability
+  - Reliability
 - Candidate Status and Certification System
-
+  - ...
