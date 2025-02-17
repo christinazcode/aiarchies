@@ -19,7 +19,7 @@ The MlFlow and DeepEval provide superior features, maturity, support infrastruct
  
 ## Consequences:
 
-- Product ownership and cost.
+- Product ownership and operational cost.
 - Implementation installation, configuration, and integration.
-- Run time process flow and connectivity.
+- Run time process flow integration, availability, and connectivity.
 - Maintainability and tuning
