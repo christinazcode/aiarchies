@@ -1,4 +1,4 @@
-# **AI Archies Team's - Augmenting Human Intelligence for Certifiable, Inc.(Architectural Kata Winter 2025)**
+# **AI Archies Team's - Augmenting Human Intelligence for Certifiable, Inc. (Architectural Kata Winter 2025)**
 
 ### Welcome to the Augmenting Human Intelligence for Certifiable repository!
 
@@ -19,6 +19,16 @@ In a world where software architects must be licensed professionals in the same 
   - [Deliverables](#deliverables)
 
 ## **Overview**
+
+### **About the Project**
+
+Our **Augmenting Human Intelligence solution** effectively and reliably automates key manual steps in the company's certification process. It enables:
+
+- **Brainstorming** ideas for both aptitude tests and architecture solution tests
+- **Summarizing** short answers in aptitude tests and architecture submissions in architecture solution tests
+- **Generating** architecture submission feedback
+- **Plagiarism detection**, including AI content detection
+- Keeping **humans in the loop** to review and validate all generated content and perform the final scoring
 
 ### **Team members**
 
