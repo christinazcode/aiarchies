@@ -6,9 +6,9 @@ In a world where software architects must be licensed professionals in the same 
 
 ## **Table of Contents**
 
-- [Overview](#-overview)
+- [Overview](#overview)
   - [About the Project](#about-the-project)
-  - [Team Members](#-team-members)
+  - [Team Members](#team-members)
 - [Requirements](#-requirements)
   - [Functional Requirements](#functional-requirements)
   - [Non-Functional Requirements](#non-functional-requirements)
