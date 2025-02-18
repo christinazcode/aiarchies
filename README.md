@@ -1,6 +1,8 @@
 # **AI Archies Team's - Augmenting Human Intelligence for Certifiable, Inc.(Architectural Kata Winter 2025)**
 
-### Welcome to the **Augmenting Human Intelligence for Certifiable** repository!
+### Welcome to the Augmenting Human Intelligence for Certifiable repository!
+
+In a world where software architects must be licensed professionals in the same way doctors, nurses, building architects, and lawyers are licensed, Certifiable, Inc. is the market leader in certifying and licensing new and existing software architects.  Facing the opportunity for growth, it utilizes generative AI to augment human intelligence so that AI is not replacing humans, but becoming their assistance. This provides a great example of how to use responsible AI to build a better world.
 
 ## **Table of Contents**
 
