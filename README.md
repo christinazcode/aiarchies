@@ -1,15 +1,35 @@
-# Certifiable, Inc.SoftArchCert | Architectural Kata (Winter 2025)
+# **AI Archies Team's - Augmenting Human Intelligence for Certifiable, Inc.(Architectural Kata Winter 2025)**
 
-## The AIArchies
+### Welcome to the **Augmenting Human Intelligence for Certifiable** repository!
 
-* Abhishek Bansal &nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bansala/)
-* Jerzy Bilchuk &nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jerzybilchuk/)
-* Preeti Gupta &nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pep/)
-* Somenath Mukherjee &nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/somenathmukherjee/)
-* Christina Zhong &nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/zhongchristina/)
+## **Table of Contents**
+
+- [Overview](#-overview)
+  - [About the Project](#about-the-project)
+  - [Team Members](#-team-members)
+- [Requirements](#-requirements)
+  - [Functional Requirements](#functional-requirements)
+  - [Non-Functional Requirements](#non-functional-requirements)
+  - [Assumptions and Constraints](#assumptions-and-constraints)
+- [Appendix](#appendix)
+  - [Kata Goals](#kata-goals)
+  - [Judging Criteria](#judging-Criteria)
+  - [Deliverables](#deliverables)
+
+## **Overview**
+
+### **Team members**
+
+* [Abhishek Bansal](https://www.linkedin.com/in/bansala/)
+* [Jerzy Bilchuk](https://www.linkedin.com/in/jerzybilchuk/)
+* [Preeti Gupta](https://www.linkedin.com/in/pep/)
+* [Somenath Mukherjee](https://www.linkedin.com/in/somenathmukherjee/)
+* [Christina Zhong](https://www.linkedin.com/in/zhongchristina/)
 
 ## Introduction
 The objective of the exercise is to learn the applicability of AI technologies to enhance existing system solutions.
+
+## **Appendix**
 
 ## Kata Goals
 
@@ -18,7 +38,7 @@ The objective of the exercise is to learn the applicability of AI technologies t
 - Select opportunities for adding AI to the existing system and **how** it can be applied
 - **Redesign the existing** architecture to support these changes
   
-### Judging criteria
+### Judging Criteria
 
 1. Innovative use of GenAI
 2. Suitability of solution given the constraints
