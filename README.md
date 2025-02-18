@@ -31,7 +31,7 @@ The objective of the exercise is to learn the applicability of AI technologies t
 
 ## **Appendix**
 
-## Kata Goals
+### Kata Goals
 
 - Analyse the existing system's architecture to **identify manual steps and likely bottlenecks** 
 - Determine how GenAI could address **the growth in demand and potential scalability problems** 
@@ -46,7 +46,7 @@ The objective of the exercise is to learn the applicability of AI technologies t
 4. Use of AI architecture patterns and avoidance of AI architecture anti-patterns 
 5. Match the current solution's architectural characteristics (a.k.a qualities, non-functional requirements) in the AI additions
 
-## Deliverables: 
+### Deliverables: 
 - AI perspective of the solution: how the team used AI, what data and UIs are required to implement the certification solution 
 - More details in the diagrams
 - ADRs of AI implementation; including trade-off analysis and consequences
