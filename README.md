@@ -15,7 +15,7 @@ In a world where software architects must be licensed professionals in the same 
   - [Assumptions and Constraints](#assumptions-and-constraints)
 - [Appendix](#appendix)
   - [Kata Goals](#kata-goals)
-  - [Judging Criteria](#judging-Criteria)
+  - [Judging Criteria](#judging-criteria)
   - [Deliverables](#deliverables)
 
 ## **Overview**
@@ -37,9 +37,6 @@ Our **Augmenting Human Intelligence solution** effectively and reliably automate
 * [Preeti Gupta](https://www.linkedin.com/in/pep/)
 * [Somenath Mukherjee](https://www.linkedin.com/in/somenathmukherjee/)
 * [Christina Zhong](https://www.linkedin.com/in/zhongchristina/)
-
-## Introduction
-The objective of the exercise is to learn the applicability of AI technologies to enhance existing system solutions.
 
 ## **Appendix**
 
