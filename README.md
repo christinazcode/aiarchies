@@ -62,12 +62,8 @@ Our **Augmenting Human Intelligence solution** effectively and reliably automate
 - [optional] pertinent implementation details
 - [semi-finalists] five minutes videos describing
 
-### Important use cases visualized on sequence diagrams
-
-## Deployment
-
-## Fitness functions
-
-## Constraints Known issues
-
-## Observability
+Important use cases visualized on sequence diagrams
+Deployment
+Fitness functions
+Constraints Known issues
+Observability
