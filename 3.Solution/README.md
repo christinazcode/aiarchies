@@ -19,9 +19,10 @@ The system architecture consists of five subsystems responsible for Administrati
 - Testing System
   - Availability
   - Scalability
-  - 
+  - Performance
 - Learning and Recommendation System
   - Accuracy
   - Reliability
 - Candidate Status and Certification System
-  - ...
+  - Scalability
+  - Security
