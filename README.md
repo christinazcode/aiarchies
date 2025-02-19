@@ -9,9 +9,9 @@ In a world where software architects must be licensed professionals in the same 
 - [Overview](#overview)
   - [About the Project](#about-the-project)
   - [Team Members](#team-members)
-- [Requirements](#-requirements)
+- [Requirements](#requirements)
   - [Functional Requirements](#functional-requirements)
-  - [Non-Functional Requirements](#non-functional-requirements)
+  - [Architectural Characteristics](#architectural-characteristics)
   - [Assumptions and Constraints](#assumptions-and-constraints)
 - [Appendix](#appendix)
   - [Kata Goals](#kata-goals)
@@ -37,6 +37,20 @@ Our **Augmenting Human Intelligence solution** effectively and reliably automate
 * [Preeti Gupta](https://www.linkedin.com/in/pep/)
 * [Somenath Mukherjee](https://www.linkedin.com/in/somenathmukherjee/)
 * [Christina Zhong](https://www.linkedin.com/in/zhongchristina/)
+
+## **Requirements** 
+
+### Functional Requirements
+[View Functional Requirements](1.Requirements/01_Functional_Requirements.md)  
+Defines core features such as Ema, the agent, plagiarism detection, and feedback generation.
+
+### Architectural Characteristics
+[View Architectural Characteristics](1.Requirements/02_Architectural_Characteristics.md)  
+Outlines accuracy, security, and observability requirements.
+
+### Assumptions and Constraints
+[View Assumptions and Constraints](1.Requirements/03_Assumption_and_Constraints.md)  
+Details the assumptions and system limitations.
 
 ## **Appendix**
 
