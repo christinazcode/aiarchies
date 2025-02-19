@@ -1,6 +1,6 @@
 ## Title: 
 
-003: LLM Technology
+003: Use GPT-NeoX for Self Hosted LLM
 
 ## Status: 
 
