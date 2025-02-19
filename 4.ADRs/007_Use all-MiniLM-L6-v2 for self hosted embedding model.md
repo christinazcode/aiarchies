@@ -1,5 +1,8 @@
 # Architecture Decision Record:  Selection of Self-Hosted Stack with all-MiniLM-L6-v2 Embedding Model  
 
+## Status
+Accepted
+
 ## **Context**  
 A self-hosted architecture is proposed to optimize cost efficiency, data privacy, and performance for AI workflows. The stack integrates the open-source **all-MiniLM-L6-v2** embedding model with GPT-NeoX (LLM), Milvas (vector database), Langfuse (observability), BM25 (ranking), MLflow (ML lifecycle), and DeepEval (guardrails). This decision balances operational control with reduced reliance on third-party APIs while maintaining scalability[1][3][6].
 
