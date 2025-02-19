@@ -52,6 +52,23 @@ Outlines accuracy, security, and observability requirements.
 [View Assumptions and Constraints](1.Requirements/03_Assumption_and_Constraints.md)  
 Details the assumptions and system limitations.
 
+## **Use Cases**
+
+[View Use Cases](2.Features/Use_Cases.md)
+
+Lists some use cases.
+
+## **Architecture and Design**
+
+## **Architecture Decision Records (ADRs)** 
+
+Capture every aspect of the architectural decisions made in designing the system.
+
+### ADRs List
+
+[001: Use Retrieval-Augmented Generation (RAG) to Scale Certifiable Platform](4.ADRs/001_Use_Retrieval-Augmented_Generation(RAG)_to_Scale_Certifiable_Platform.md)
+ 
+
 ## **Appendix**
 
 ### Kata Goals
