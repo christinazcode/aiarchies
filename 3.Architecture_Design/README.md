@@ -32,5 +32,8 @@ The Administration architecture will be modified by adding AI model training fun
 ![image](assets/Administration%20System%20Architecture.png)
 
 ## Learning and Recommendation System Architecture 
-The new Learning and Recommendation System will be added and integrated into the other sub-systems: ... .
+The new Learning and Recommendation System will be created and integrated into the other sub-systems for summarization and grading of Candidate submissions, as well as context learning and fine-tuning purposes.  
+![image](assets/Autograder%20and%20Data%20Pipeline.png)
 
+## Testing System Architecture 
+The existing Testomg subsystem will be enhanced by integrating AutoGrader service components to provide grading summaries and recommendations.
