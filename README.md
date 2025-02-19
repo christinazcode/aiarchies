@@ -68,7 +68,7 @@ Capture every aspect of the architectural decisions made in designing the system
 
 - [001: Use Retrieval-Augmented Generation (RAG) to Scale Certifiable Platform](4.ADRs/001_Use_Retrieval-Augmented_Generation(RAG)_to_Scale_Certifiable_Platform.md)
 - [002: Use a Private LLM for RAG](4.ADRs/002_Use_a_Private_LLM_for_RAG.md)
-- [003: Use GPT-NeoX for Self Hosted LLM](4.ADRs/003_ Use_GPT-NeoX_for_Self_Hosted_LLM.md)
+- [003: Use GPT-NeoX for Self Hosted LLM](4.ADRs/003_Use_GPT-NeoX_for_Self_Hosted_LLM.md)
  
 
 ## **Appendix**
