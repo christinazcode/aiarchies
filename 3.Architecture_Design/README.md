@@ -36,6 +36,5 @@ The new Learning and Recommendation System will be created and integrated into t
 ![image](assets/Autograder%20and%20Data%20Pipeline.png)
 
 ## Testing System Architecture 
-The existing Testomg subsystem will be enhanced by integrating AutoGrader service components to provide grading summaries and recommendations.
-The new Learning and Recommendation System will be created and integrated into the other sub-systems for summarization and grading of Candidate submissions, as well as context learning and fine-tuning purposes.  
-![image](assets/Autograder%20and%20Data%20Pipeline.png)
+The existing Testing subsystem will be enhanced by integrating AutoGrader service components to provide grading summaries and recommendations for the Expert users to review, adjust, and approve the final test grades. 
+![image](assets/Test%201%20Subsystem.png)
