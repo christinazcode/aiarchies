@@ -1,6 +1,6 @@
 ## Title
 
-006: Architecture Decision Record: Selection of Milvus as the Self-Hosted Vector Database
+006: Selection of Milvus as the Self-Hosted Vector Database
 
 ## Status
 
