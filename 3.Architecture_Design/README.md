@@ -26,3 +26,11 @@ The system architecture consists of five subsystems responsible for Administrati
 - Candidate Status and Certification System
   - Scalability
   - Security
+
+## User and Test Administration Architecture
+The Administration architecture will be modified by adding AI model training functions allowing designated expert users to introduce "best" answers to the RAG model and case study context with "preferred" solutions.  The new user interface functions and integration into the AI data Pipeline will be added to the current administration application subsystem.
+![image](assets/Administration%20System%20Architecture.png)
+
+## Learning and Recommendation System Architecture 
+The new Learning and Recommendation System will be added and integrated into the other sub-systems: ... .
+
