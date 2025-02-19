@@ -1,4 +1,4 @@
-### Justification for Building a Self-Hosted RAG System
+# Justification for Building a Self-Hosted RAG System
 
 This document outlines the rationale for building a self-hosted Retrieval-Augmented Generation (RAG) system using the following components: **all-MiniLM-L6-v2** embedding model, **GPT-NeoX** as the LLM, **Milvus** as the vector database, BM25 for initial ranking, and tools like **Langfuse**, **MLflow**, and **DeepEval** for observability and guardrails. It also includes an analysis of cost, performance, and comparisons with alternative solutions.
 
