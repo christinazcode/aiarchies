@@ -1,4 +1,6 @@
-# Architecture Decision Record:  Selection of Self-Hosted Stack with all-MiniLM-L6-v2 Embedding Model  
+## Title
+
+007: Selection of Self-Hosted Stack with all-MiniLM-L6-v2 Embedding Model  
 
 ## Status
 Accepted

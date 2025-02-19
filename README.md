@@ -69,8 +69,13 @@ Capture every aspect of the architectural decisions made in designing the system
 - [001: Use Retrieval-Augmented Generation (RAG) to Scale Certifiable Platform](4.ADRs/001_Use_Retrieval-Augmented_Generation(RAG)_to_Scale_Certifiable_Platform.md)
 - [002: Use a Private LLM for RAG](4.ADRs/002_Use_a_Private_LLM_for_RAG.md)
 - [003: Use GPT-NeoX for Self Hosted LLM](4.ADRs/003_Use_GPT-NeoX_for_Self_Hosted_LLM.md)
+- [004: Use MlFlow and DeepEval Tools for Guardrails.md](4.ADRs/004_Use_MlFlow_and_DeepEval_Tools_for_Guardrails.md)
+- [005: Data Pipeline for RAG's Knowledge Base](4.ADRs/005_Data_Pipeline_for_RAG's_Knowledge_Base.md)
+- [006: Architecture Decision Record: Selection of Milvus as the Self-Hosted Vector Database](4.ADRs/006_Use_Milvus_for_Self_Hosted_Vector_Database.md)
+- [007: Selection of Self-Hosted Stack with all-MiniLM-L6-v2 Embedding Model](4.ADRs/007_Use_All-MiniLM-L6-v2_for_Self_Hosted_Embedding_Model.md)
+- [008: Selecting BM25 as the Initial Ranking Model for a Self-Hosted RAG System](4.ADRs/008_Use_BM25_as_the_Initial_Ranking_Model.md)
+- [009: Use of Langfuse for AI observability](4.ADRs/009_Use_LangFuse_for_Observability_Evaluation_and_Prompt_Management.md)
  
-
 ## **Appendix**
 
 ### Kata Goals

@@ -1,4 +1,6 @@
-# Architectural Decision Record (ADR): Selecting BM25 as the Initial Ranking Model for a Self-Hosted RAG System
+## Title
+
+008: Selecting BM25 as the Initial Ranking Model for a Self-Hosted RAG System
 
 ## Status
 Accepted
