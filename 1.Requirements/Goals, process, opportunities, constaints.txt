@@ -1,0 +1,87 @@
+Goals - 
+
+- how to apply AI
+- tools and catagories of the AI ecosystem
+- AI architectural patterns and how to apply them
+- limitations and risks associated with AI in architecture
+- How AI impacts the structure of a system
+
+- Fictional historical perspective
+	- IT professions and architects must be licensed like doctors - SALB - Software Architecture Licensing board
+	- Laws passed by serveral countries to match the US laws
+	- Certifiable Inc - Market leaders - 
+	- Product called - SoftArchCert
+	
+	- Expected increase in volume - 5-10x to certify and license architects
+	= Apply Generative AI to assist with the manual processes to keep up with the demand
+	- Identify opportunities to use AI and redesign the architecture to hande the surge in demand
+	
+Certification Process
+- Two tests
+	- Aptitude test
+		- mutiple choice
+		- short answer questions
+		- answers stored in the database
+		- multiple choice autograded
+		- short answers are graded by expert software architects within 1 week of submission
+		- score of 80% is a pass
+		- candidates are notified why they did not pass, if they fail
+		
+	- architecture submission
+		- case study
+		- create an architecture
+		- one of five case studies is randomly assigned for an architecture solution
+		- two weeks to download and upload the arch solution
+			- Distinct criteria used to grade the arch solution manually by the expert software architects within 1 week of submission
+		= score of 80% is a pass
+		- failure to score 80%, candidates can reapply for the arch submission portion of the test
+	
+	- certification info is saved in a verification database for candidates scoring 80% in both exams
+	
+Administrative Process
+	- experts grade tests, but analyse reports and results to modify certification test questions
+	- new tech patterns, practices are incorporated in the questions periodically
+	- case studies are periodically added and replaced for the second portion of the test
+	- Experts are contractors that work hourly. with varying demand
+	- Administrator maintains the expert architect credentials in the system
+	
+- Company currently employees 300 experts. 5 of these are designated experts who can modify tests, earning $50 per hr.
+
+- 200 candidates per week 
+- expected to grow 5-10x with overseas expansion
+- anticipated growth 21% over the next 4 years
+- Licensing fee $800
+
+- 3 hrs spent on the short answers review.
+- 8 hrs spent on the architecure submission review by the experts
+
+- Real stats
+	- 176K software architects in the US
+	- 300K job openings yet to be filled
+	- 600K job openings in UK, Asia and Europe
+	- 21% growth expected over the next 4 years
+	
+	- 120K software architects certified by Certifiable Inc. right now.
+	
+	- Candidate have 30 days from the first test to start their second test.
+	- Certifiable has a 80% market share
+	- Certifiable is willing to spend the money to incorporate AI solutions due to expected growth
+	
+Opportunities -
+- By deploying an AI based solution - Reduce Experts intervention in improving and maintaining aptitude test questions.
+= By deployig an AI based solution - Reduce experts intervention in updating the case studies options for the architecture submission part of the test. 
+- Pre-screen short answers with the help of AI to reduce time spent by experts in the manual review. Currently 3 hours per test.
+- Pre-screen architecture submissions with the help of AI to reduce time spent by experts in the manual review. Currently 8 hours per test.
+- Reduce turn around time for test results - currently over 30 + 21 or 51 days combined for the two tests.
+
+Constaints -
+- The gross profit margin before infrastructure costs is $800 - $550 ($50 X 11 expert hrs) = $250.
+- The growth projections and the additional AI system costs must improve the profit margin not reduce it.
+- Maintain data security by securely saving all data on corporate managed, isolated systems (not exposed to public cloud infrastructure).
+
+	
+	
+	
+	
+	
+	
