@@ -99,9 +99,3 @@ Capture every aspect of the architectural decisions made in designing the system
 - ADRs of AI implementation; including trade-off analysis and consequences
 - [optional] pertinent implementation details
 - [semi-finalists] five minutes videos describing
-
-Important use cases visualized on sequence diagrams
-Deployment
-Fitness functions
-Constraints Known issues
-Observability
