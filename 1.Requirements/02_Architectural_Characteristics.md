@@ -1,21 +1,17 @@
 # Architectural Characteristics
 
-## Overview
+The following are key capabilities that are critical or important to the success of the solution:
 
-There are key capabilites that are critical or important to the success of the solution. 
+**Feasibility**: The company's projected annual revenue is about $170 million when the weekly candidate count grows to 4,287 per week by year four. The CapEx for this project needs to meet the ROI target to make the solution a viable path forward.
 
-## Architectural Characteristics
+**Accuracy**: Inaccurate or misleading certification exams and case studies can undermine the company's current credibility in the marketplace, so accuracy of the certification process is vital for the company's success.
 
-Feasibility: The company's projected annual revenue is about $170 million when the weekly candidate count grows to 4,287 per week by year four. The CapEx for this project needs to meet the ROI target to make the solution a viable path forward.
+**Security and Privacy**: The tests, submissions, and other relevant context need to be stored and transmitted securely to be compliant with Software Architecture Licensing Board (SALB) regulations and guidelines.
 
-Accuracy: Inaccurate or misleading certification exams and case studies can undermine the company's current credibility in the marketplace, so accuracy of the certification process is vital for the company's success.
+**Observability**: Observing and monitoring the solution post-deployment is crucial for identifying potential risks and maintaining reliability.
 
-Security and Privacy: The tests, submissions, and other relevant context need to be stored and transmitted securely to be compliant with Software Architecture Licensing Board (SALB) regulations and guidelines.
+**Data Integrity**: Ensure the accuracy, consistency, and reliability of data used in the solution; prevent data manipulation or corruption.
 
-Observability: Observing and monitoring the solution post-deployment is crucial for identifying potential risks and maintaining reliability.
+**Scalability**: Dynamic and continuous adjustment of resources to match business growth demands, maintaining low latency and throughput during periods of high demand.
 
-Data Integrity: Ensure the accuracy, consistency, and reliability of data used in the solution; prevent data manipulation or corruption.
-
-Scalability: Dynamic and continuous adjustment of resources to match business growth demands, maintaining low latency and throughput during periods of high demand.
-
-Recoverability: The recoverability of the existing system needs to be maintained so that candidates have a smooth experience while taking the aptitude tests.
+**Recoverability**: The recoverability of the existing system needs to be maintained so that candidates have a smooth experience while taking the aptitude tests.
