@@ -50,7 +50,7 @@ Defines core features such as Ema, the agent, plagiarism detection, and feedback
 Outlines accuracy, security, and observability requirements.
 
 ### Goals and Constraints
-[View Goals and Constraints](1.Requirements/03_Assumption_and_Constraints.md)  
+[View Goals and Constraints](1.Requirements/03_Goals_and_Constraints.md)  
 Details the goals and system limitations.
 
 ## **Use Cases**
