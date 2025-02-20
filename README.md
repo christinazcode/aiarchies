@@ -38,7 +38,7 @@ Our **Augmenting Human Intelligence solution** effectively and reliably automate
 
 * [Abhishek Bansal](https://www.linkedin.com/in/bansala/) - Richmond, VA
 * [Jerzy Bilchuk](https://www.linkedin.com/in/jerzybilchuk/) - Portland, OR
-* [Preeti Gupta](https://www.linkedin.com/in/pep/) - East Brunswick, New Jersey
+* [Preeti Gupta](https://www.linkedin.com/in/pep/) - East Brunswick, NJ
 * [Somenath Mukherjee](https://www.linkedin.com/in/somenathmukherjee/) - San Diego, CA
 * [Christina Zhong](https://www.linkedin.com/in/zhongchristina/) - Chicago, IL
 
@@ -57,9 +57,7 @@ Outlines accuracy, security, and observability requirements.
 Details the assumptions and system limitations.
 
 ## **Use Cases**
-
 [View Use Cases](2.Features/Use_Cases.md)
-
 Lists some use cases.
 
 ## **Architecture and Design**
