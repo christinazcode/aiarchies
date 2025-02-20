@@ -36,11 +36,11 @@ Our **Augmenting Human Intelligence solution** effectively and reliably automate
 
 ### **Team members**
 
-* [Abhishek Bansal](https://www.linkedin.com/in/bansala/)
-* [Jerzy Bilchuk](https://www.linkedin.com/in/jerzybilchuk/)
-* [Preeti Gupta](https://www.linkedin.com/in/pep/)
-* [Somenath Mukherjee](https://www.linkedin.com/in/somenathmukherjee/)
-* [Christina Zhong](https://www.linkedin.com/in/zhongchristina/)
+* [Abhishek Bansal](https://www.linkedin.com/in/bansala/) - Richmond, VA
+* [Jerzy Bilchuk](https://www.linkedin.com/in/jerzybilchuk/) - Portland, OR
+* [Preeti Gupta](https://www.linkedin.com/in/pep/) - East Brunswick, New Jersey
+* [Somenath Mukherjee](https://www.linkedin.com/in/somenathmukherjee/) - San Diego, CA
+* [Christina Zhong](https://www.linkedin.com/in/zhongchristina/) - Chicago, IL
 
 ## **Requirements** 
 
