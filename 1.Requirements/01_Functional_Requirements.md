@@ -13,22 +13,3 @@ The solution will **summarize** any test answers longer than 50 words and genera
 The solution will provide **references** to previous submissions and feedback for the same or similar questions to help maintain consistency and fairness in the grading process.
 
 Users can **rank** LLM responses to improve the LLM's response generation, including Ema's.
-
-# Added By som
-Software Architecture shall have a data pipeline to have continous update of  test questions and answers database for RAG systems. 
-
-Software Architecture shall need to have prompt geneartion tightly coupled to vector database for up to date and relevant prompt generation
-
-software architecture shall ensure that Architecture is designed in such a way not to load LLM for repeated queries to control costs.
-
-software architecure shall need to have a monitoring system for costs incurred with LLM usage(Token usage etc.)
-
-Software architecture shall need to have a guideline for prompt responses back from LLM.
-
-Software architecture shall need to have a process of filtering/guradrailing  user responses to LLM.
-
-Software architecture shall have a way  of structured response generation from LLM as per user need.
-
-Software Architecture shall have a way of automtically quering the vector database without any human assistance like an agentic AI system.
-
-Software Architecture shall have a way of evaluating the models used in AI assisted grading system.
