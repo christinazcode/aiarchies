@@ -59,7 +59,7 @@ Lists some use cases.
 
 ## **Architecture and Design**
 [Architecture Solution](3.Architecture_Design/solution_architecture.md)\
-[Self Hosted RAG System](3.Architecture_Design/Justification.md)
+[A Self-Hosted RAG System](3.Architecture_Design/Justification.md)
 
 ## **Architecture Decision Records (ADRs)** 
 
