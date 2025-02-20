@@ -1,6 +1,6 @@
 ## Title
 
-008: Selecting BM25 as the Initial Ranking Model for a Self-Hosted RAG System
+008: Technology for the Initial Ranking Model for the Self-Hosted RAG System
 
 ## Status
 Accepted
