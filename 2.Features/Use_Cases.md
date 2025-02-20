@@ -44,7 +44,10 @@ A Candidate makes a payment via online payment systems.
 - A Candidate user reviews the record of testing progress and test scores
 
 ### UC08: An Administrator Maintains Users
-
+- An administrator manages all expert credentials
+- An administrator manages candidate user profiles
 
 ### UC09: An Expert Maintains Questions and Answers
+
+
 
