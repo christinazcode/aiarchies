@@ -45,7 +45,7 @@ This document outlines the rationale for building a self-hosted Retrieval-Augmen
 ## **Annual Cost of Ownership**
 
 | Component | Cost Estimate (Annual) |
-| :-- | :-- |
+|-----------|------------------------|
 | **Hardware (GPUs)** | \$12,000–\$15,000 for A100 GPUs (or \$3/hour for cloud GPU rentals during heavy loads)[^4]. |
 | **Milvus Database** | Free (self-hosted); infrastructure costs depend on server usage (~\$1,000–\$5,000/year)[^4]. |
 | **Langfuse** | Free (open-source version)[^3]. |
@@ -59,11 +59,11 @@ This document outlines the rationale for building a self-hosted Retrieval-Augmen
 
 ## **Performance Comparison: Alternative LLMs**
 
-| Model | Parameters | Strengths | Weaknesses |
-| :-- | :-- | :-- | :-- |
-| GPT-NeoX | Variable | Open-source; customizable; cost-efficient[^7]. | Requires infrastructure investment. |
-| LLaMA 3 | Up to 70B | Superior reasoning; open-source[^5][^6]. | Higher memory/GPU requirements. |
-| Falcon 180B | 180B | High accuracy; excels in generative tasks[^5]. | Expensive to self-host. |
+| Model | Parameters | Strengths                                       | Weaknesses |
+|-----------|---------|-------------------------------------------------|---------|
+| GPT-NeoX | Variable | Open-source; customizable; cost-efficient[^7].  | Requires infrastructure investment. |
+| LLaMA 3 | Up to 70B | Superior reasoning; open-source[^5][^6].        | Higher memory/GPU requirements. |
+| Falcon 180B | 180B | High accuracy; excels in generative tasks[^5].  | Expensive to self-host. |
 | Mistral 7B | 7B | Efficient; fast inference; low latency[^5][^6]. | Limited capacity for complex queries. |
 
 GPT-NeoX strikes a balance between cost-efficiency and performance for most RAG applications.
