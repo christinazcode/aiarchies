@@ -1,6 +1,6 @@
 ## Title
 
-009: Use of Langfuse for AI observability
+009: Technology for the AI observability
 
 ## Status
 

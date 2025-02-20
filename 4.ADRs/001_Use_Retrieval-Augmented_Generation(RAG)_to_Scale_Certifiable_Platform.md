@@ -14,7 +14,7 @@ Certifiable Platform supports 200 candidates per week.  The user base is project
 
 We will use RAG/GenAI.
 
-RAG/GenAI can be implemented to summarize short answers and architecture design submissions, generate feedback for both Test 1 and Test 2, verify the integrity of the submissions, brainstorm ideas for modifying tests and changing/adding design cases, and even provide a private chat assistant to answer relevant questions. A consultant spends 11 hours grading a candidate's submission and writing feedback. With RAG/GenAI automation and assistance, this effort can be reasonably reduced to less than two hours.  It can provide reasonable accuracy compared to expanding the team to 3,000 or more. 
+RAG/GenAI can be implemented to summarize short answers and architecture design submissions, generate feedback for both Test 1 and Test 2, verify the integrity of the submissions, brainstorm ideas for modifying tests and changing/adding design cases, and even provide a private chat assistant to answer relevant questions. A consultant spends 11 hours grading a candidate's submission and writing feedback. With RAG/GenAI automation and assistance, this effort can be reasonably reduced to less than two hours.  It can provide reasonable accuracy compared to expanding the team to 3,000 or more while allowing the Expert users to review and finalize the grading based on the AI system's recommendation. 
 
 
 ## Consequences:
