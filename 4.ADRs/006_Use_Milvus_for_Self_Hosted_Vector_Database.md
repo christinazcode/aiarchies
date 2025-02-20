@@ -1,6 +1,6 @@
 ## Title
 
-006: Selection of Milvus as the Self-Hosted Vector Database
+006: Technology for Self-Hosted Vector Database
 
 ## Status
 
@@ -8,7 +8,7 @@ Accepted
 
 ## Context
 
-We need a vector database solution that integrates with our self-hosted AI infrastructure, including GPT-NeoX LLM, All-MiniLM-L6-v2 embedding model, and various MLOps tools.
+We need a vector database solution that integrates with our self-hosted AI infrastructure, which includes the GPT-NeoX LLM, the All-MiniLM-L6-v2 embedding model, and various MLOps tools.
 
 ## Decision
 
