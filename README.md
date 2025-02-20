@@ -54,7 +54,7 @@ Outlines accuracy, security, and observability requirements.
 Details the goals and system limitations.
 
 ## **Use Cases**
-[View Use Cases](2.Features/Use_Cases.md)
+[View Use Cases](2.Features/Use_Cases.md)\
 Lists some use cases.
 
 ## **Architecture and Design**
