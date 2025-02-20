@@ -35,8 +35,11 @@ The Administration architecture will be modified by adding AI model training fun
 
 ## Testing System Architecture 
 The existing Testing subsystem will be enhanced by integrating AutoGrader service components to provide grading summaries and recommendations for the Expert users to review, adjust, and approve the final test grades.
-
+Aptitude Test Subsystem Components and Integrations
 ![image](assets/Test%201%20Subsystem.png)
+
+Architecture Solution (Case Study) Testing Subsystem Components and Integrations
+![image](assets/Test%202%20Subsystem.png)
 
 ## Learning and Recommendation System Architecture 
 The new Learning and Recommendation System will be created and integrated into the other sub-systems for summarization and grading of Candidate answer submissions, as well as for context learning and fine-tuning purposes.  
