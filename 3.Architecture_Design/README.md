@@ -7,6 +7,26 @@ A few core architecture principles to make sure that our architecture and system
 | Separation of Concerns | Divide the components of the system into specific features so that there is no overlapping among the components' functionality. This will provide high cohesion and low coupling. This approach avoids the interdependency among components of the system which helps in maintaining the system easy.
 | Cloud over Self Hosted | We minimize the dependencies on hardware resources and cost while increasing agility and efficiencies by leveraging SaaS, PaaS, and IaaS hosting platforms over owned data center hosting.
 
+## Architecture Guidelines
+
+Software Architecture shall have a data pipeline to have continous update of  test questions and answers database for RAG systems. 
+
+Software Architecture shall need to have prompt geneartion tightly coupled to vector database for up to date and relevant prompt generation
+
+software architecture shall ensure that Architecture is designed in such a way not to load LLM for repeated queries to control costs.
+
+software architecure shall need to have a monitoring system for costs incurred with LLM usage(Token usage etc.)
+
+Software architecture shall need to have a guideline for prompt responses back from LLM.
+
+Software architecture shall need to have a process of filtering/guradrailing  user responses to LLM.
+
+Software architecture shall have a way  of structured response generation from LLM as per user need.
+
+Software Architecture shall have a way of automtically quering the vector database without any human assistance like an agentic AI system.
+
+Software Architecture shall have a way of evaluating the models used in AI assisted grading system.
+
 ## Architecture Component Model
 The system architecture consists of five subsystems responsible for Administration, Running the Tests, Assessment and Scoring, Learning and Recommendation as well as Candidate Status.  The existing system will be extended with an RAG approach to enhance large language models (LLMs) through query-dependent retrievals based on the architectural test relevant context.
 
