@@ -1,6 +1,6 @@
-# Assumptions and Constraints
+# Goals and Constraints
 
-## Assumptions
+## Goals
  
 **ROI**: By reducing the grading hours per candidate from 11 hours to 2 hours or less, the existing variable cost of grading is reduced from $550 to $100. The new variable cost will include LLM usage and fixed costs for the additional infrastructure required for the solution.
 
