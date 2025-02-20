@@ -1,6 +1,6 @@
 ## Title: 
 
-003: Use GPT-NeoX for Self Hosted LLM
+003: Technology for Self-Hosted LLM
 
 ## Status: 
 
@@ -14,14 +14,14 @@ Accepted
 
 ## Decision:
 
-- We will use the GTP NeoX tool for self-hosted LLM capabilities.
+- We will use the **GTP NeoX** tool for self-hosted LLM capabilities.
 
 If the primary concern is minimizing costs, and we have the technical capability to handle setup and maintenance, GPT-NeoX is a strong choice.  
 GPT-NeoXT-Chat-Base-20B language foundation model is available for customers using Amazon SageMaker JumpStart.
  
 ## Consequences:
 
-- Product ownership and cost.
+- Managing product instance ownership and cost.
 - Implementation installation, configuration, and integration.
-- Run time process flow and connectivity.
-- Maintainability and tuning
+- Support of run time process flow exceptions and connectivity.
+- On-going maintainance and model tuning
