@@ -12,7 +12,7 @@ In a world where software architects must be licensed professionals in the same 
 - [Requirements](#requirements)
   - [Functional Requirements](#functional-requirements)
   - [Architectural Characteristics](#architectural-characteristics)
-  - [Goals and Constraints](#assumptions-and-constraints)
+  - [Goals and Constraints](#goals-and-constraints)
 - [Use Cases](#use-cases)
 - [Architecture and Design](#architecture-and-design)
 - [Architecure Decision Records](#architecture-decision-records-adrs)
