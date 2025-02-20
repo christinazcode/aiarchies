@@ -63,6 +63,7 @@ Details the assumptions and system limitations.
 Lists some use cases.
 
 ## **Architecture and Design**
+[Architecture Solution](3.Architecture_Design/solution_architecture.md)
 
 ## **Architecture Decision Records (ADRs)** 
 
