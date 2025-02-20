@@ -72,12 +72,6 @@
 - Pre-screen architecture submissions with the help of AI to reduce time spent by experts in the manual review. Currently 8 hours per test.
 - Reduce turn around time for test results - currently over 30 + 21 or 51 days combined for the two tests.
 
-## Constraints -
- 
-- The gross profit margin before infrastructure costs is $800 - $550 ($50 X 11 expert hrs) = $250.
-- The growth projections and the additional AI system costs must improve the profit margin not reduce it.
-- Maintain data security by securely saving all data on corporate managed, isolated systems (not exposed to public cloud infrastructure).
-
 ## Goals
 
 - Learn How to apply AI
@@ -85,3 +79,18 @@
 - Learn AI architectural patterns and how to apply them
 - Understand limitations and risks associated with AI in architecture
 - Undertsand how AI impacts the structure of a system
+  
+### Judging Criteria
+
+1. Innovative use of GenAI
+2. Suitability of solution given the constraints
+3. Provide an appropriate level of details
+4. Use of AI architecture patterns and avoidance of AI architecture anti-patterns 
+5. Match the current solution's architectural characteristics (a.k.a qualities, non-functional requirements) in the AI additions
+
+### Deliverables: 
+- AI perspective of the solution: how the team used AI, what data and UIs are required to implement the certification solution 
+- More details in the diagrams
+- ADRs of AI implementation; including trade-off analysis and consequences
+- [optional] pertinent implementation details
+- [semi-finalists] five minutes videos describing
