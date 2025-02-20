@@ -18,9 +18,6 @@ In a world where software architects must be licensed professionals in the same 
 - [Architecure Decision Records](#architecture-decision-records-adrs)
   - [ADRs List](#adrs-list) 
 - [Appendix](#appendix)
-  - [Kata Goals](#kata-goals)
-  - [Judging Criteria](#judging-criteria)
-  - [Deliverables](#deliverables)
 
 ## **Overview**
 
@@ -81,4 +78,6 @@ Capture every aspect of the architectural decisions made in designing the system
 - [009: Use of Langfuse for AI observability](4.ADRs/009_Use_LangFuse_for_Observability_Evaluation_and_Prompt_Management.md)
  
 ## **Appendix**
+
+[Problem Background](5.Problem_Statement/problem_statement.md)
 
