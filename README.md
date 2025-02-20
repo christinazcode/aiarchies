@@ -82,24 +82,3 @@ Capture every aspect of the architectural decisions made in designing the system
  
 ## **Appendix**
 
-### Kata Goals
-
-- Analyse the existing system's architecture to **identify manual steps and likely bottlenecks** 
-- Determine how GenAI could address **the growth in demand and potential scalability problems** 
-- Select opportunities for adding AI to the existing system and **how** it can be applied
-- **Redesign the existing** architecture to support these changes
-  
-### Judging Criteria
-
-1. Innovative use of GenAI
-2. Suitability of solution given the constraints
-3. Provide an appropriate level of details
-4. Use of AI architecture patterns and avoidance of AI architecture anti-patterns 
-5. Match the current solution's architectural characteristics (a.k.a qualities, non-functional requirements) in the AI additions
-
-### Deliverables: 
-- AI perspective of the solution: how the team used AI, what data and UIs are required to implement the certification solution 
-- More details in the diagrams
-- ADRs of AI implementation; including trade-off analysis and consequences
-- [optional] pertinent implementation details
-- [semi-finalists] five minutes videos describing
