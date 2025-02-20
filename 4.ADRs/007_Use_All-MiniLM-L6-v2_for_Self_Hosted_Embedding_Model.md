@@ -1,6 +1,6 @@
 ## Title
 
-007: Selection of Self-Hosted Stack with all-MiniLM-L6-v2 Embedding Model  
+007: Technology for Self-Hosted Embedding Model  
 
 ## Status
 Accepted
