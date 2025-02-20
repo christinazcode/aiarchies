@@ -12,7 +12,7 @@ In a world where software architects must be licensed professionals in the same 
 - [Requirements](#requirements)
   - [Functional Requirements](#functional-requirements)
   - [Architectural Characteristics](#architectural-characteristics)
-  - [Assumptions and Constraints](#assumptions-and-constraints)
+  - [Goals and Constraints](#assumptions-and-constraints)
 - [Use Cases](#use-cases)
 - [Architecture and Design](#architecture-and-design)
 - [Architecure Decision Records](#architecture-decision-records-adrs)
@@ -49,7 +49,7 @@ Defines core features such as Ema, the agent, plagiarism detection, and feedback
 [View Architectural Characteristics](1.Requirements/02_Architectural_Characteristics.md)  
 Outlines accuracy, security, and observability requirements.
 
-### Assumptions and Constraints
+### Goals and Constraints
 [View Assumptions and Constraints](1.Requirements/03_Assumption_and_Constraints.md)  
 Details the assumptions and system limitations.
 
